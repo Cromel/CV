@@ -34,7 +34,7 @@ Oxagile (http://www.oxagile.com ) Minsk Belarus
 * Knowledge sharing on alghoritms/data structures in mentoring system in the Golang department
 * Using Go, PostgreSQL, MongoDB, ElasticSearch, Git, Jira, Swagger, Docker, AWS, NATS, Amazon MQ, NSQ, Hashicorp stack
 
-**Software developer 2017-2017**
+**Software developer 2017-2018**
 
 * Developing client application for git history analytics
 * Creating alghoritms for fast proccesing of git history for determening ammount of work done by programmer and building graphs
@@ -44,7 +44,6 @@ Oxagile (http://www.oxagile.com ) Minsk Belarus
 **Software developer 2016-2017**
 
 Instinctools  (https://www.instinctools.by/) Grodno Belarus
-
 * Developing mobile apps for Android/IOS
 * Creating algorithm for fast object detection using camera
 * Using C#, Xamarin, Jira, Git
