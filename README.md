@@ -60,4 +60,5 @@ ITIBO (https://itibo.com/) Grodno Belarus
 **Grodno state university 2009-2015**
 
 Information systems and technologies in economics - software engineer-economist
+
 Taking part in international sports programming competitions - acm-icpc
